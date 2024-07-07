@@ -1,41 +1,25 @@
-class Enum {
+public class Enumerator {
 
-  int X = 1;
-  int y = 0;
+    int policy = 200;
+    int readme = 100;
+  
+  String a;
+  
+    Scanner scanner;
+    Scanner a;
 
-}
-function Ajax_CC (b, a) {
-
-  X = b;
-  a = y;
-
-System.in.out.println(a + x);
-
-  return X;
-
-function Ajax_Cshrp (X, e) {
-  X = 1;
-  e = 0;
-
-
-return 1;
-
-
-Ajax_CC(X);
-Ajax_Csrhp(X, e);
-
-function Ajax_Css (a, b) {
-  a = 100;
-  b = 10000;
-
-## Data-logger isn't big enough for the pea's and carrots, UI-Design was built by my matriples --and maple tree's... (y)
-
-if (a > b) {
-  if (a < b) {
-
-    else {
-
-          ++b;
-
+            System.in.out.println(a);
 }
 
+private class eddom {
+    String e;
+    Scanner e;
+
+  for ( e == e; e > 0; e++) {
+      a++;
+}
+
+    System.in.out.println(a);
+
+
+}
