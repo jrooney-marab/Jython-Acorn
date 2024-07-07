@@ -1,0 +1,26 @@
+class EDDOM {
+
+  String scanner;
+  Scanner scanner;
+
+  String y;
+  int X = 0;
+
+  String y = new String(scanner);
+  String y = String.scanner.new String(y);
+
+  System.in.println(String.scanner.newString());
+
+  }
+function (b, a) {
+
+    b = y;
+    x = a;
+
+    return x;
+
+  }
+
+
+
+
