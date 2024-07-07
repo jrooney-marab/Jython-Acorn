@@ -1,6 +1,6 @@
 #!shebang/bash/bin/bash --Src
 
-b = $0;
+b = "//Cover.png/--Source ";
 v = $1;
 v == $v;
 $a = 20;
